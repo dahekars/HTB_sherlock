@@ -1,5 +1,5 @@
 
-![[../images/jingle bell.png]]
+![[images/jingle bell.png]]
 # Jingli bell
 
 ## Story
