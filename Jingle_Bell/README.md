@@ -19,6 +19,7 @@ Torrin is suspected to be an insider threat in Forela. He is believed to have le
 6. Set *Type* filter to **toast**
 ## Questions 
 1. What's the channel name in which they conversed with each other?
+   
 	ans. Slack
 	analysis: when checked the database entry, user is using Slack application for data licking 
 	![](Jingle_Bell/images/jingle bell.png)
@@ -28,16 +29,16 @@ Torrin is suspected to be an insider threat in Forela. He is believed to have le
 3. What is the username of the person from the competitor organization whom Torrin shared information with?
 	ans. Cyberjunkie-PrimeTechDev
 	analysis. in one of the entries the user got the notification for accepted invite from slack
-4. What's the channel name in which they conversed with each other?
+5. What's the channel name in which they conversed with each other?
 	ans. forela-secrets-leak
 	analysis. After the invite was accepted all the conversation notification came from channel name "forela-secrets-leak"
-5. What was the password for the archive server?
+6. What was the password for the archive server?
 	ans. Tobdaf8Qip$re@1
 	analysis. in one entry of notification user got password notification for password for sharing files
-6. What was the URL provided to Torrin to upload stolen data to?
+7. What was the URL provided to Torrin to upload stolen data to?
 	ans. https://drive.google.com/drive/folders/1vW97VBmxDZUIEuEUG64g5DLZvFP-Pdll?usp=sharing
 	analisys. in one conversation Cyberjunkie-PrimeTechDev shared a google drive link for uploading data
-7. When was the above link shared with Torrin?
+8. When was the above link shared with Torrin?
 	ans. 2023-04-20 10:34:49
 	analysis. there is the message time stamp in epoch string with can be converted with python3 using below code 
 ```python3
