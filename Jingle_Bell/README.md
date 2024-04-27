@@ -21,7 +21,7 @@ Torrin is suspected to be an insider threat in Forela. He is believed to have le
 1. What's the channel name in which they conversed with each other?
 	ans. Slack
 	analysis: when checked the database entry, user is using Slack application for data licking 
-	![[../images/Pasted image 20240427150007.png]]
+	![](Jingle_Bell/images/jingle bell.png)
 2. What's the name of the rival company to which Torrin leaked the data?
 	ans. PrimeTech Innovations
 	analysis. In header section of database entry the title contains the name of the company
