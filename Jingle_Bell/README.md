@@ -19,16 +19,16 @@ Torrin is suspected to be an insider threat in Forela. He is believed to have le
 6. Set *Type* filter to **toast**
 ## Questions 
 1. What's the channel name in which they conversed with each other?
-   
-	ans. Slack
-
-	analysis: when checked the database entry, user is using Slack application for data licking 
+ans. Slack
+analysis: when checked the database entry, user is using Slack application for data licking 
 
 ![Jingle_Bell/images/Pasted image 20240427150007.png]
-3. What's the name of the rival company to which Torrin leaked the data?
-	ans. PrimeTech Innovations
-	analysis. In header section of database entry the title contains the name of the company
-4. What is the username of the person from the competitor organization whom Torrin shared information with?
+
+2. What's the name of the rival company to which Torrin leaked the data?
+ans. PrimeTech Innovations
+analysis. In header section of database entry the title contains the name of the company
+
+. What is the username of the person from the competitor organization whom Torrin shared information with?
 	ans. Cyberjunkie-PrimeTechDev
 	analysis. in one of the entries the user got the notification for accepted invite from slack
 5. What's the channel name in which they conversed with each other?
